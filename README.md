@@ -1,6 +1,6 @@
 # CS23820_Assignment
 
-This is my submission for my assignment for the C and C++ module for my second year of university. It is a program to help track a entrants and performance for a hypothetical drone racing competition. I recieved an overall mark of 78% for this work.
+This is my submission for my assignment for the C and C++ module for my second year of university. It is a program to help track a entrants and performance for a hypothetical drone racing competition. I recieved an overall mark of 78% for this work, and an overall mark of 84% for the module.
 
 ## MAIN PROGRAMS:
 ### Entrant Registration Program:
